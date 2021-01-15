@@ -100,9 +100,8 @@ sections:
       - subtitle: Productivity
         subtitlePosition: center
         description: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id
-          eleifend erat. Integer eget mattis augue. Suspendisse semper laoreet
-          tortor sed convallis. Nulla ac euismod lorem
+          Improve, and accelrate your business. From sales process, to internal
+          meetinmgs, the benefits of video are vast.
         image: images/section/root-server.png
         color: white
         button:
