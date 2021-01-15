@@ -50,7 +50,7 @@ footer:
           link: 'https://gohugo.io/'
         - title: L Chat
           link: 'https://gohugo.io/'
-        - title: Telemetry
+        - title: Beacon
           link: 'https://gohugo.io/'
   contents:
     align: left
