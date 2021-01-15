@@ -101,7 +101,7 @@ sections:
         subtitlePosition: center
         description: >-
           Improve, and accelerate your business. From sales process, to internal
-          meetinmgs, the benefits of video are vast.
+          meetings, the benefits of video are vast.
         image: images/section/root-server.png
         color: white
         button:
