@@ -83,7 +83,7 @@ sections:
           target: _blank
           color: white
           bgcolor: '#283593'
-      - subtitle: Reliability
+      - subtitle: Security
         subtitlePosition: center
         description: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id
