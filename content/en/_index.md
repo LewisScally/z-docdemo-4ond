@@ -9,7 +9,9 @@ landing:
   title:
     - Lunar Chat
   text:
-    - 'The only security driven British Video '
+    - >-
+      The only security driven British Video Chat service. Available for free to
+      the general public, and available 
   titleColor: null
   textColor: null
   spaceBetweenTitleText: 25
