@@ -61,10 +61,7 @@ footer:
 sections:
   - bgcolor: teal
     type: card
-    description: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id eleifend
-      erat. Integer eget mattis augue. Suspendisse semper laoreet tortor sed
-      convallis. Nulla ac euismod lorem
+    description: 'Works on both desktop, tablet, and mobile devices'
     header:
       title: Why L Chat
       hlcolor: '#8bc34a'
