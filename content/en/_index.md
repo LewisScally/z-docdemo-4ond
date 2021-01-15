@@ -1,5 +1,5 @@
 ---
-title: Z Themes
+title: Lunar Chat
 description: 'Hugo zzo, zdoc theme documentation home page'
 date: '2020-01-26T04:15:05+09:00'
 draft: false
