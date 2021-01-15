@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "Hugo Zdoc theme",
-    "short_name": "Hugo Zdoc theme",
+    "short_name": "L Chat",
     "version": "1.0.0",
     "default_locale": "en",
     "description": "Hugo simple documentation theme",
