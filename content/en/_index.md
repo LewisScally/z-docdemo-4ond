@@ -46,7 +46,7 @@ footer:
       links:
         - title: OnDevs
           link: 'https://gohugo.io/'
-        - title: Releases
+        - title: Light Party
           link: 'https://gohugo.io/'
         - title: Spectrum
           link: 'https://gohugo.io/'
