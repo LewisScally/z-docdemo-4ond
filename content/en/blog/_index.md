@@ -9,15 +9,14 @@ header:
     align: center
     title:
       - Blog
-    subtitle: 
-      - 
-      - 
-    titleColor: 
+    subtitle:
+      - null
+      - null
+    titleColor: null
     titleFontSize: 44
-    subtitleColor: 
+    subtitleColor: null
     subtitleFontSize: 20
     spaceBetweenTitleSubtitle: 16
-  
   - type: img
     imageSrc: images/header/background.jpg
     imageSize: cover
@@ -28,13 +27,13 @@ header:
     paddingY: 0
     align: center
     title:
-      - Zzo blog
+      - Lunar Chat Support & Specs
     subtitle:
-      - 
-    titleColor: 
+      - null
+    titleColor: null
     titleShadow: true
     titleFontSize: 44
-    subtitleColor:
+    subtitleColor: null
     subtitleFontSize: 16
     spaceBetweenTitleSubtitle: 20
 ---
