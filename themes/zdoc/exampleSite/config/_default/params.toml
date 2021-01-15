@@ -1,7 +1,7 @@
 logo = false
 logoText = "L Chat"
 logoType = "short"
-description = "The ZDoc theme for Hugo example site."
+description = "L Chat"
 themeOptions = [ "light", "dark" ]
 useFaviconGenerator = true
 enableTocSwitch = true
