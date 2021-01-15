@@ -77,7 +77,7 @@ sections:
         image: images/section/keyboard.png
         color: white
         button:
-          name: See Specs
+          name: Support
           link: 'https://gohugo.io/'
           size: large
           target: _blank
