@@ -132,9 +132,10 @@ sections:
       subtitle: Extensible and customisable.
       subtitlePosition: left
       description: >-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id
-        eleifend erat. Integer eget mattis augue. Suspendisse semper laoreet
-        tortor sed convallis. Nulla ac euismod lorem
+        What can be achieved with the power of wideo calling is truly
+        remarkable. Now more than ever a secure, reliable, method of
+        communicaton iwth client, collegues, and custoemrs is more important
+        than ever.
       color: white
       image: images/section/root-server.png
       imagePosition: left
