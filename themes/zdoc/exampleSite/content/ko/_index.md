@@ -1,6 +1,6 @@
 ---
 title: ZDoc
-description: L Chat
+description: L Chat Support
 date: '2020-01-26T04:15:05+09:00'
 draft: false
 updatesBanner: L Chat lchat.co.uk
