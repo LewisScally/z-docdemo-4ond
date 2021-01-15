@@ -26,7 +26,7 @@ footer:
       links:
         - title: Docs
           link: 'https://gohugo.io/'
-        - title: Speci
+        - title: Specification
           link: 'https://gohugo.io/'
         - title: Showcase
           link: 'https://gohugo.io/'
