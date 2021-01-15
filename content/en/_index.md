@@ -105,7 +105,7 @@ sections:
         image: images/section/root-server.png
         color: white
         button:
-          name: Yahoo
+          name: Pricing
           link: 'https://gohugo.io/'
           size: large
           target: _blank
