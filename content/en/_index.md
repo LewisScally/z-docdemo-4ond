@@ -36,7 +36,7 @@ footer:
       links:
         - title: Linkedin
           link: linkedin.com
-        - title: Releases
+        - title: Facebook
           link: 'https://gohugo.io/'
         - title: Spectrum
           link: 'https://gohugo.io/'
