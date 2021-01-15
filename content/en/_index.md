@@ -11,7 +11,7 @@ landing:
   text:
     - >-
       The only security driven British Video Chat service. Available for free to
-      the general public, and available 
+      the general public, and available as a fully cusomi
   titleColor: null
   textColor: null
   spaceBetweenTitleText: 25
