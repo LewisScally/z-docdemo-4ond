@@ -134,7 +134,7 @@ sections:
       description: >-
         What can be achieved with the power of wideo calling is truly
         remarkable. Now more than ever a secure, reliable, method of
-        communicaton iwth client, collegues, and custoemrs is more important
+        communication with client, collegues, and custoemrs is more important
         than ever.
       color: white
       image: images/section/root-server.png
