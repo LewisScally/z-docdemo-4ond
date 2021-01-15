@@ -34,7 +34,7 @@ footer:
           link: 'https://gohugo.io/'
     - title: resources
       links:
-        - title: GitHub
+        - title: Linkedin
           link: 'https://gohugo.io/'
         - title: Releases
           link: 'https://gohugo.io/'
