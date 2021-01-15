@@ -72,8 +72,8 @@ sections:
       - subtitle: Performance
         subtitlePosition: center
         description: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id
-          eleifend erat. Integer eget mattis augue.
+          A powerful solution that works across mobile, tablet, and desktop
+          devices. Up to 75 face to face exchanges
         image: images/section/keyboard.png
         color: white
         button:
