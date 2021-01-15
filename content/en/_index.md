@@ -44,7 +44,7 @@ footer:
           link: 'https://gohugo.io/'
     - title: Staithes Group
       links:
-        - title: GitHub
+        - title: OnDevs
           link: 'https://gohugo.io/'
         - title: Releases
           link: 'https://gohugo.io/'
