@@ -15,7 +15,7 @@ landing:
   spaceBetweenTitleText: 25
   buttons:
     - link: docs
-      text: HUGO THEME ZDOC
+      text: l chat
       color: primary
 footer:
   sections:
