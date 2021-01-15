@@ -32,7 +32,7 @@ footer:
           link: 'https://gohugo.io/'
         - title: Blog
           link: 'https://gohugo.io/'
-    - title: resources
+    - title: Social
       links:
         - title: Linkedin
           link: linkedin.com
