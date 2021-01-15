@@ -73,7 +73,7 @@ sections:
         subtitlePosition: center
         description: >-
           A powerful solution that works across mobile, tablet, and desktop
-          devices. Upto 75 
+          devices. Upto 75 face to face exchanges
         image: images/section/keyboard.png
         color: white
         button:
