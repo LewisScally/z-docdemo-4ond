@@ -9,7 +9,7 @@ landing:
   title:
     - Lunar Chat
   text:
-    - 'The '
+    - The only security drib
   titleColor: null
   textColor: null
   spaceBetweenTitleText: 25
