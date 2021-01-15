@@ -123,7 +123,7 @@ sections:
       erat. Integer eget mattis augue. Suspendisse semper laoreet tortor sed
       convallis. Nulla ac euismod lorem
     header:
-      title: Build it with Zdoc
+      title: Build with L Chat
       hlcolor: DarkKhaki
       color: '#fff'
       fontSize: 32
