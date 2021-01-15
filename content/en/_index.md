@@ -91,7 +91,7 @@ sections:
         image: images/section/processor.png
         color: white
         button:
-          name: Speci
+          name: Specifications
           link: 'https://gohugo.io/'
           size: large
           target: _blank
