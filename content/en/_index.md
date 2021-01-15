@@ -100,7 +100,7 @@ sections:
       - subtitle: Productivity
         subtitlePosition: center
         description: >-
-          Improve, and accelrate your business. From sales process, to internal
+          Improve, and accelerate your business. From sales process, to internal
           meetinmgs, the benefits of video are vast.
         image: images/section/root-server.png
         color: white
