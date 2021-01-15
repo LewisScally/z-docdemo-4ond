@@ -87,7 +87,7 @@ sections:
         subtitlePosition: center
         description: >-
           Enable guests or oly allowed aproved acess via email and password
-          login
+          login. End to end encryption
         image: images/section/processor.png
         color: white
         button:
