@@ -66,7 +66,7 @@ sections:
       erat. Integer eget mattis augue. Suspendisse semper laoreet tortor sed
       convallis. Nulla ac euismod lorem
     header:
-      title: Why Zdoc
+      title: 'Why L: Chat'
       hlcolor: '#8bc34a'
       color: '#fff'
       fontSize: 32
