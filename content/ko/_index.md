@@ -10,7 +10,7 @@ landingImage: favicon/android-icon-192x192.png
 landingTitle:
   - Hugo ZDoc theme
 landingText:
-  - Make a documentation with hugo zdoc theme!
+  - L Chat
 titleColor: null
 textColor: null
 spaceBetweenTitleText: 25
