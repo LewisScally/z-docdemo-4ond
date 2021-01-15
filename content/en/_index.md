@@ -129,7 +129,7 @@ sections:
       fontSize: 32
       width: 340
     body:
-      subtitle: Extensible and customizable.
+      subtitle: Extensible and customisable.
       subtitlePosition: left
       description: >-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id
