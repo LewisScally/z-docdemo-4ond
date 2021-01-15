@@ -1,6 +1,6 @@
 ---
 title: Lunar Chat
-description: 'Hugo zzo, zdoc theme documentation home page'
+description: the Smart way to keep in touch
 date: '2020-01-26T04:15:05+09:00'
 draft: false
 landing:
