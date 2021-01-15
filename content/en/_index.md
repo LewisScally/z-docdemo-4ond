@@ -86,9 +86,8 @@ sections:
       - subtitle: Security
         subtitlePosition: center
         description: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id
-          eleifend erat. Integer eget mattis augue. Suspendisse semper laoreet
-          tortor sed convallis. Nulla ac euismod lorem
+          enable guests or oly allowed aproved acess via email and password
+          login
         image: images/section/processor.png
         color: white
         button:
