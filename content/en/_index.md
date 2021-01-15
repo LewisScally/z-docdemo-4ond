@@ -9,7 +9,7 @@ landing:
   title:
     - Lunar Chat
   text:
-    - This is Hugo Z Themes documentation site
+    - 'The '
   titleColor: null
   textColor: null
   spaceBetweenTitleText: 25
