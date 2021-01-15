@@ -61,7 +61,7 @@ footer:
 sections:
   - bgcolor: teal
     type: card
-    description: 'Works on both desktop, tablet, and mobile devices'
+    description: 'Works on both desktop, tablet, and mobile devices.'
     header:
       title: Why L Chat
       hlcolor: '#8bc34a'
