@@ -38,7 +38,7 @@ footer:
           link: linkedin.com
         - title: Facebook
           link: 'https://gohugo.io/'
-        - title: Spectrum
+        - title: Twitter
           link: 'https://gohugo.io/'
         - title: Telemetry
           link: 'https://gohugo.io/'
