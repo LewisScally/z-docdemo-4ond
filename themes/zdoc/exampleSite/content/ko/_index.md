@@ -1,6 +1,6 @@
 ---
 title: ZDoc
-description: Hugo ZDoc theme landing page
+description: L Chat
 date: '2020-01-26T04:15:05+09:00'
 draft: false
 updatesBanner: L Chat lchat.co.uk
