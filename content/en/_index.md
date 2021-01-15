@@ -48,7 +48,7 @@ footer:
           link: 'https://gohugo.io/'
         - title: Light Party
           link: 'https://gohugo.io/'
-        - title: Spectrum
+        - title: L Chat
           link: 'https://gohugo.io/'
         - title: Telemetry
           link: 'https://gohugo.io/'
