@@ -40,7 +40,7 @@ footer:
           link: 'https://gohugo.io/'
         - title: Twitter
           link: 'https://gohugo.io/'
-        - title: The Beacon
+        - title: Beacon
           link: 'https://gohugo.io/'
     - title: Features
       links:
