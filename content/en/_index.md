@@ -42,7 +42,7 @@ footer:
           link: 'https://gohugo.io/'
         - title: Beacon
           link: 'https://gohugo.io/'
-    - title: 'Our '
+    - title: Part of Staithes Group
       links:
         - title: GitHub
           link: 'https://gohugo.io/'
