@@ -86,7 +86,7 @@ sections:
       - subtitle: Security
         subtitlePosition: center
         description: >-
-          enable guests or oly allowed aproved acess via email and password
+          Enable guests or oly allowed aproved acess via email and password
           login
         image: images/section/processor.png
         color: white
