@@ -9,7 +9,7 @@ landing:
   title:
     - Lunar Chat
   text:
-    - The only security drib
+    - 'The only security driven British Video '
   titleColor: null
   textColor: null
   spaceBetweenTitleText: 25
