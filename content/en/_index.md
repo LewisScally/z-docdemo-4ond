@@ -77,7 +77,7 @@ sections:
         image: images/section/keyboard.png
         color: white
         button:
-          name: Naver
+          name: See Speca
           link: 'https://gohugo.io/'
           size: large
           target: _blank
